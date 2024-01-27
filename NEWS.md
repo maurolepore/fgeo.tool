@@ -1,4 +1,4 @@
-# fgeo.tool (development version)
+# fgeo.tool 1.2.9
 
 # fgeo.tool 1.2.8
 
